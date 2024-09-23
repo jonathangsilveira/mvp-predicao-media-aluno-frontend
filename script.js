@@ -253,7 +253,7 @@ const loadPredictions = () => {
 
 const createRemoveButton = () => {
     let button = document.createElement("button")
-    button.className = 'botao-icone'
+    button.className = 'btn btn-danger'
     let img = document.createElement("i")
     img.className = 'bi bi-trash'
     button.appendChild(img)
