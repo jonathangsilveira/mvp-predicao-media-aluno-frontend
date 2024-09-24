@@ -1,6 +1,3 @@
-# mvp-predicao-media-aluno-frontend
-App de integração com API com modelo treinado para prever média de alunos baseado em performance de alunos
-
 # Classificação de média com base em performance de estudantes
 
 Esta aplicação é um MVP para prever a classificação da média de estudantes utilizando como entrada dados demográficos, hábitos de estudo, envolvimento dos pais na educação e atividades extracurriculares.
@@ -21,15 +18,15 @@ SPA (Single Page Application) utilizando HTML, JavaScript e Boostrap.
 
 Home page:
 
-![image](https://)
+![image](https://github.com/jonathangsilveira/mvp-predicao-media-aluno-frontend/blob/main/assets/tela-listagem.PNG)
 
 Modal de entrada da dados do estudante:
 
-![image](https://)
+![image](https://github.com/jonathangsilveira/mvp-predicao-media-aluno-frontend/blob/main/assets/tela-novo-estudante.PNG)
 
 Classificação da média:
 
-![image](https://)
+![image](https://github.com/jonathangsilveira/mvp-predicao-media-aluno-frontend/blob/main/assets/tela-classificacao-media.PNG)
 
 ---
 ## Como executar
